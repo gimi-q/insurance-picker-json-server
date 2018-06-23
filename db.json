@@ -1,0 +1,19 @@
+{
+  "productType": "mobile phones",
+  "currencySymbol": "£",
+  "products": {
+    "0": { "name": "iphone X 64GB", "type": "mobile phone" },
+    "1": { "name": "google pixel 2 64GB", "type": "mobile phone" },
+    "2": { "name": "samsung galaxy S9", "type": "mobile phone" }
+  },
+  "premiums": {
+    "0": { "price": 50.42 },
+    "1": { "price": 40.00 },
+    "2": { "price": 45.99 }
+  },
+  "plans": {
+    "0": { "products": ["0"], "premiums": ["0"] },
+    "1": { "products": ["1"], "premiums": ["1"] },
+    "2": { "products": ["2"], "premiums": ["2"] }
+  }
+}
